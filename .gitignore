@@ -3,3 +3,6 @@
 
 # arquivos de bloqueio
 package-lock.json
+
+# MÓDULOS
+node_modules
