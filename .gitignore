@@ -1,8 +1,0 @@
-# Diretórios de cache npm opcionais
-.npm
-
-# arquivos de bloqueio
-package-lock.json
-
-# MÓDULOS
-node_modules
